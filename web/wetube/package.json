@@ -1,0 +1,11 @@
+{
+  "name": "wetube",
+  "version": "1.0.0",
+  "description": "Clone Youtube",
+  "main": "index.js",
+  "author": "Salwks",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
